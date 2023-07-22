@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Passionate iOS developer, creating intuitive and user-friendly mobile applications. Always eager to learn and innovate.
+
 <!--
 **mazhenguo67/mazhenguo67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
